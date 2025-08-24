@@ -1,0 +1,21 @@
+id,job_role,key_skills,portfolio_link
+1,Data Scientist,"Python, Pandas, Scikit-learn, TensorFlow, SQL, Data Visualization",https://www.kaggle.com/
+2,Machine Learning Engineer,"Python, ML Pipelines, PyTorch, TensorFlow, MLOps, APIs",https://github.com/ageron/handson-ml2
+3,AI Engineer,"LLMs, LangChain, HuggingFace, Prompt Engineering, APIs",https://smith.langchain.com/hub
+4,Backend Developer,"Python/Node.js, Django/FastAPI/Express, Databases, REST, GraphQL",https://github.com/django/django
+5,Frontend Developer,"React, Next.js, Tailwind, TypeScript, State Management",https://react-portfolio-template.netlify.app/
+6,Full Stack Developer,"MERN/MEAN Stack, REST/GraphQL APIs, Authentication, CI/CD",https://fullstackopen.com/en/
+7,DevOps Engineer,"Docker, Kubernetes, CI/CD, Jenkins, Terraform, AWS/GCP/Azure",https://github.com/jenkinsci
+8,Cloud Engineer,"AWS/GCP/Azure, Networking, Kubernetes, Security, Serverless",https://github.com/aws-samples
+9,Cybersecurity Analyst,"Kali Linux, Wireshark, SIEM, Firewalls, Threat Modeling",https://github.com/OWASP
+10,Blockchain Developer,"Solidity, Ethereum, Smart Contracts, Web3.js, Truffle",https://github.com/dappuniversity
+11,Mobile App Developer,"Flutter, React Native, Swift/Kotlin, Firebase, APIs",https://github.com/Solido/awesome-flutter
+12,Game Developer,"Unity, C#, Unreal Engine, Blender, Game Physics",https://github.com/Unity-Technologies
+13,Data Engineer,"SQL, Spark, Hadoop, Airflow, ETL, Cloud Data Warehouses",https://github.com/astronomer/airflow-provider-sample
+14,Business Analyst,"Excel, SQL, Power BI/Tableau, Business Modeling",https://public.tableau.com/
+15,UI/UX Designer,"Figma, Adobe XD, Wireframing, Prototyping, Usability Testing",https://www.behance.net/galleries/ui-ux
+16,Digital Marketing Manager,"SEO, Google Analytics, Paid Ads, Content Strategy, Social Media",https://dribbble.com/tags/digital_marketing
+17,Content Writer,"Copywriting, SEO, Research, Storytelling, Editing",https://medium.com/
+18,Financial Analyst,"Excel, Power BI, SQL, Risk Analysis, Forecasting",https://www.cfainstitute.org/
+19,Product Manager,"Agile, Jira, Roadmapping, Data Analysis, Stakeholder Management",https://productmanagementexercises.com/
+20,Robotics Engineer,"ROS, C++, Python, Computer Vision, Control Systems",https://github.com/ros-planning
